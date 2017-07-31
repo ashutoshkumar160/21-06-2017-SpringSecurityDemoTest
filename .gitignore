@@ -1,3 +1,2 @@
-/target/SpringSecurityApp/WEB-INF/lib
-/target/*.war*
-/target/*.jar*
+*.war*
+*.jar*
